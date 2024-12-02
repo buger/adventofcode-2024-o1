@@ -12,6 +12,7 @@ This repository demonstrates using OpenAI's O1 LLM capabilities (via ChatGPT) to
 | Day | Solved (Silver/Gold) | Iterations | Time Taken | One-Shot Success | Chat Link |
 |-----|---------------------|------------|------------|------------------|-----------|
 | 1   | ✅/✅               | 1          | 20s        | ✅               | [Chat](https://chatgpt.com/share/674c9de5-1d4c-8005-8b67-2bb1029cb4b9) |
+| 2   | ✅/✅               | 1          | 30s        | ✅               | [Chat](https://chatgpt.com/share/674d42f4-1424-8005-826b-453db70d2645) |
 
 ## Approach
 
