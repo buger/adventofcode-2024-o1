@@ -16,6 +16,7 @@ This repository demonstrates using OpenAI's O1 LLM capabilities (via ChatGPT) to
 | 3   | ✅/✅               | 1          | 60s        | ✅               | [Chat](https://chatgpt.com/share/674ea076-a0f4-8005-944d-2653f0991c5c) |
 | 4   | ✅/✅               | 1          | 33s        | ✅               | [Chat](https://chatgpt.com/share/67504736-fc5c-8005-a5b7-b4e8ddb0c854) |
 | 5   | ✅/✅               | 1          | 62s        | ✅               | [Chat](https://chatgpt.com/share/67517d28-9acc-8005-b33c-abc378bc0177) |
+| 6   | ✅/✅               | 1          | 2s        |  ✅               | [Chat](https://chatgpt.com/share/6752973a-9bc0-8005-a40e-053888cbaf9f) |
 
 ## Approach
 
